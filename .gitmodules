@@ -1,0 +1,3 @@
+[submodule ".salad"]
+	path = .salad
+	url = git@github.com:sminnee/salad.git
